@@ -1,0 +1,17 @@
+{
+  "name": "parserdata-nodejs-example",
+  "version": "1.0.0",
+  "description": "Node.js example for using the Parserdata API to extract structured financial data.",
+  "type": "module",
+  "scripts": {
+    "start": "node parse-invoice.mjs"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "license": "MIT"
+}
