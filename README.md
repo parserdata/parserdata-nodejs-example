@@ -136,3 +136,11 @@ You can freely modify the prompt field to match your document structure or schem
 ## License
 
 MIT
+
+---
+
+## Need help or a custom setup?
+
+This repository is a reference example.
+
+If you need help tailoring it to your workflow, or want advice on a more advanced Parserdata API integration (custom schemas, scale, or production use), reach out to us: support@parserdata.com
