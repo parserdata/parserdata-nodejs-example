@@ -10,6 +10,13 @@ This repository demonstrates how to upload a document using multipart/form-data 
 
 ---
 
+## Official ParserData pages
+
+- **API reference:** https://parserdata.com/parserdata-api
+- **Pricing:** https://parserdata.com/pricing
+
+---
+
 ## ✨ Features
 
 - Upload PDFs and documents via multipart form
